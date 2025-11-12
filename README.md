@@ -1,17 +1,3 @@
-Perfect — since your **`django_project`** is based on Corey Schafer’s Django Full-Featured Web App tutorial, it’s a **learning-focused blog web app** with authentication, posts, pagination, and media uploads.
-Here’s a clean, professional **About** and **README.md** you can paste directly into GitHub 👇
-
----
-
-### 🧾 **About (GitHub “About” section)**
-
-> A Django web app built following Corey Schafer’s Full-Featured Django Tutorial series — includes user authentication, blog posts, image uploads, and pagination.
-
----
-
-### 📘 **README.md (Markdown-ready)**
-
-````markdown
 # 🐍 Django Blog Project
 
 A full-featured blog web application built with **Python Django**, following [Corey Schafer’s Django Tutorial Series](https://www.youtube.com/playlist?list=PL-osiE80TeTtoQCKZ03TU5fNfx2UY6U4p).  
