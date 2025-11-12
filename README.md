@@ -34,7 +34,7 @@ This project implements key web-development concepts such as authentication, CRU
    ```bash
    git clone https://github.com/luciantkd/django_project.git
    cd django_project
-````
+   ````
 
 2. **Create and activate a virtual environment:**
 
